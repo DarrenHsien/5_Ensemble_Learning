@@ -1,6 +1,14 @@
 # 5_Ensemble_Learning
 三個臭皮匠勝過一個諸葛亮-集成學習器的大學習器
 
+使用資料 : HR評估公司員工表格，預測最後會被開除的員工
+
+善用工具 : 
+	
+	-OneHotEncording : 用以代替非數值的資料分類(如果無等級差異),也可能用來歸納實際y值
+
+	-LabelEncorder : 用以代替非數值的資料分類(如果有等級差異)
+
 
 1.Voting Classifier投票學習器
 
