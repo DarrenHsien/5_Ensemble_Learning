@@ -62,5 +62,5 @@
 	-n_estimators : 要使用幾個弱學習器集成訓練
 	
 
-5.GradientBoost
+
 
